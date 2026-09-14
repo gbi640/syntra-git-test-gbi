@@ -5,9 +5,13 @@
 
 ## lijn 2
 
-* 1   zerzer
-*  1 azerzea
-*   1  azerzea
+1.   zerzer
+  1.   azerzea
 
+1.  4421
 ## lijn 3
+- dfg
+- -dsfgd
+
+- 
 
